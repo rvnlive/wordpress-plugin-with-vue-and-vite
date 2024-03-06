@@ -1,0 +1,10 @@
+#toplevel_page_my-vue-plugin div.wp-menu-image, .folded #toplevel_page_my-vue-plugin div.wp-menu-image {
+    background-image: url("../img/icon.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+    margin-top: 7px;
+}  /* An example style for the existing icon.svg*/
